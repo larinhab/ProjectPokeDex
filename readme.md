@@ -13,10 +13,10 @@ Projeto realizado por Lara, pelas dicas e segmentos do Dev em Dobro.<br/>
 </p>
 
 <p align="center">
-  <img alt="Meu Projeto" src="/ProjectPokemon/src/assets/imgread2.png">
+  <img alt="Meu Projeto" src="/src/assets/imgread.png">
 </p>
 <p align="center">
-  <img alt="Meu Projeto" src="/ProjectPokemon/src/assets/imgread.png">
+  <img alt="Meu Projeto" src="/src/assets/imgread2.png">
 </p>
 <br>
 
